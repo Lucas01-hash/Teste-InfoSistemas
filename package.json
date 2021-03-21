@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon src/server.js",
     "start": "node src/server.js",
-    "test": "mocha --timeout 2000 --exit"
+    "test": "nodemon --watch lib node_modules/mocha/bin/mocha test/*.spec.js --transpileOnly --ignore-watch node_modules src/app.js "
   },
   "dependencies": {
     "body-parser": "^1.19.0",

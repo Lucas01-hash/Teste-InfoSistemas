@@ -20,7 +20,7 @@ Teste desenvolvido para o processo de seleção da empresa Info Sistemas - Back 
   
   /json/
   
-  {
+  {</br>
 	"placa": "hfg-6348",</br>
 	"chassi": "9BWZFZ377KT054451",</br>
 	"renavam": "17467314859",</br>
@@ -44,7 +44,7 @@ Teste desenvolvido para o processo de seleção da empresa Info Sistemas - Back 
   
   /json/
   
-  {
+  {</br>
 	"placa": "hfg-6348",</br>
 	"chassi": "9BWZFZ377KT054451",</br>
 	"renavam": "17467314859",</br>

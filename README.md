@@ -21,13 +21,13 @@ Teste desenvolvido para o processo de seleção da empresa Info Sistemas - Back 
   /json/
   
   {
-	"placa": "hfg-6348",
-	"chassi": "9BWZFZ377KT054451",
-	"renavam": "17467314859",
-	"modelo": "355 GTS Targa",
-	"marca": "Ferrari",
-	"ano": "1995",
-	"cor": "Cinza"
+	"placa": "hfg-6348",</br>
+	"chassi": "9BWZFZ377KT054451",</br>
+	"renavam": "17467314859",</br>
+	"modelo": "355 GTS Targa",</br>
+	"marca": "Ferrari",</br>
+	"ano": "1995",</br>
+	"cor": "Cinza"</br>
   }
  
  - Lista todos os veiculos: method (GET)
@@ -45,13 +45,13 @@ Teste desenvolvido para o processo de seleção da empresa Info Sistemas - Back 
   /json/
   
   {
-	"placa": "hfg-6348",
-	"chassi": "9BWZFZ377KT054451",
-	"renavam": "17467314859",
-	"modelo": "355 GTS Targa",
-	"marca": "Ferrari",
-	"ano": "1995",
-	"cor": "Cinza"
+	"placa": "hfg-6348",</br>
+	"chassi": "9BWZFZ377KT054451",</br>
+	"renavam": "17467314859",</br>
+	"modelo": "355 GTS Targa",</br>
+	"marca": "Ferrari",</br>
+	"ano": "1995",</br>
+	"cor": "Cinza"</br>
   }
   
   

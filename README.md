@@ -2,11 +2,11 @@
 Teste desenvolvido para o processo de seleção da empresa Info Sistemas - Back end.
 
 => FUNCIONALIDADES
-[x] cadastrar veiculo
-[x] listar um ùnico veiculo
-[x] listar todos os veiculos
-[x] deletar veiculo
-[x] atualizar dados de um veiculo.
+[x] cadastrar veiculo </br>
+[x] listar um ùnico veiculo </br>
+[x] listar todos os veiculos </br>
+[x] deletar veiculo </br>
+[x] atualizar dados de um veiculo. </br>
 
 => middleware
  - middleware para validar a entrada de dados, monitorando a quantidade de caracteres certa e se o veiculo já existe no banco de dados.
